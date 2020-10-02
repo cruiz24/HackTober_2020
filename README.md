@@ -1,6 +1,6 @@
 # Welcome to HacktoberFest 2020!
 
-##  Follow these steps to make your first pull request-
+##  Follow these steps to make your first pull request:-
 
 - Fork this repository.
 
