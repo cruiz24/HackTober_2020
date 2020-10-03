@@ -1,5 +1,5 @@
 # Welcome to HacktoberFest 2020!
-![Greetings](https://git![Greetings](https://github.com/cruiz24/HackTober_2020/workflows/Greetings/badge.svg)
+![Greetings](https://github.com/cruiz24/HackTober_2020/workflows/Greetings/badge.svg)
 ##  Follow these steps to make your first pull request:-
 
 - Fork this repository.
