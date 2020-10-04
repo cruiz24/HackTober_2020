@@ -12,12 +12,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Circular_Queue.cpp
-      run: ./DataStructures/CirQueue
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+
+
+
+
+  main_clone:
+    title: Cloning main repository...
+    stage: checkout
+    type: git-clone
+    repo: 'cruiz24-HackTober_2020'
+    revision: master
+    git: github
+  compile_my_sources:
+    title: Compile
+    stage: build
+    image: gcc
+    commands:
+      - make
+  run_my_tests:
+    title: Test
+    stage: build
+    image: gcc
+    commands:
+      - make test   
