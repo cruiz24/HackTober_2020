@@ -2,7 +2,7 @@
 - [Mail](sushamalayam@gmail.com)
 
 
-### - [ahul Ashok](https://github.com/@rahul4219)
+### - [Rahul Ashok](https://github.com/@rahul4219)
 
 
 -[Mail](rahulashok964@gmail.com)
