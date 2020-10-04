@@ -13,8 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
+    - name: Circular_Queue.cpp
+      run: ./DataStructures/CirQueue
     - name: make
       run: make
     - name: make check
