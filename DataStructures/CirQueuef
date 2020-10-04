@@ -28,7 +28,7 @@ public:
         if(front == -1) return true;
         else return false;
     }
-    
+     
     void enQueue(int element){
         if(isFull()){
             cout << "Queue is full";
@@ -77,7 +77,6 @@ public:
     }
     
 };
-
 
 int main()
 {
