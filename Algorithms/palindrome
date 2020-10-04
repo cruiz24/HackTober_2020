@@ -21,3 +21,4 @@ public class Palindrome {
             System.out.println(originalInteger + " is not a palindrome.");
     }
 }
+
